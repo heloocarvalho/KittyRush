@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "Kitty Rush!",
+    "slug": "kitty-rush",
+    "version": "1.0.0",
+    "orientation": "landscape",
+    "userInterfaceStyle": "light",
+    "scheme": "kittyrush",
+    "plugins": [
+      "expo-router"
+    ],
+    "web": {
+      "bundler": "metro",
+      "output": "single",
+      "name": "Kitty Rush!",
+      "shortName": "Kitty Rush!"
+    }
+  }
+}
